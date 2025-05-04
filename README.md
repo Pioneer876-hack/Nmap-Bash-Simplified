@@ -30,12 +30,12 @@ This script automates various **Nmap scanning techniques**, providing users with
 
 2. Make the script executable:
    ```bash
-   chmod +x nmap_script.sh
+   chmod +x nmap_auto.sh
    ```
 
 3. Run the script:
    ```bash
-   ./nmap_script.sh
+   ./nmap_auto.sh
    ```
 
 4. Select your scanning option (e.g., enter `1` for a Basic Nmap scan).
