@@ -10,7 +10,7 @@ sleep 1.0
 # Information function
 information_user(){
 	echo -e "\nATTENTION!!!"
-	echo -e "\nType 'end' or 'quit' in place of IP address (or path for choice three) to end your current choice"
+	echo -e "\nType 'end' in place of IP address (or path for choice three) to end your current choice"
 	echo -e "\nThe results for the Nmap scan can be at your current directory by the name: nmap_scan"
 }
 # Call function
