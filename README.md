@@ -3,7 +3,7 @@
 
 ## Author
 **Orient Manning (CyberDeadpool)**  
-_Beta script build for future updates!_
+_Future updates!_
 
 ## Description
 This script automates various **Nmap scanning techniques**, providing users with multiple scanning options for **network reconnaissance** and **security assessments**.
